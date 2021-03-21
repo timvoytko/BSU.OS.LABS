@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Vector.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  VectorDLL.vcxproj -> C:\Users\Timvo\source\repos\OS1(NumberLib_VectorDLL)\x64\Release\VectorDLL.dll
