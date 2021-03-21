@@ -1,0 +1,3 @@
+﻿  OS1(dll_lib).cpp
+C:\Users\Timvo\source\repos\VectorDLL\Vector.h(18,2): warning C4091: __declspec(dllexport): пропускается слева от "Vector", когда ни одна переменная не объявлена
+  OS1(dll_lib).vcxproj -> C:\Users\Timvo\source\repos\OS1(dll_lib)\x64\Debug\OS1(dll_lib).exe

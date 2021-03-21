@@ -1,0 +1,4 @@
+C:\Users\Timvo\source\repos\OS1(NumberLib_VectorDLL)\Debug\NumberLib.pdb
+C:\Users\Timvo\source\repos\NumberLib\Debug\NumberLib.pdb
+C:\Users\Timvo\source\repos\NumberLIB\Debug\NumberLib.lib
+C:\Users\Timvo\source\repos\OS1(dll_lib)\Debug\NumberLib.pdb

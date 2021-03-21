@@ -1,0 +1,2 @@
+C:\Users\Timvo\source\repos\OS1(dll_lib)\Debug\OS1(dll_lib).exe
+C:\Users\Timvo\source\repos\OS1(dll_lib)\Debug\OS1(dll_lib).pdb
