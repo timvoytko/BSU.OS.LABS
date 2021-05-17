@@ -20,7 +20,7 @@ int main() {
     close(p[1]);
   }
   execlp(ma_way_procs[3].c_str(), ma_way_procs[3].c_str(), NULL);
-
+  exit(0);
   return 0;
 
 
